@@ -26,3 +26,7 @@ replay_pid*
 .settings
 *.classpath
 *.project
+*.breakpoints
+.replit
+replit.nix
+pom.xml
